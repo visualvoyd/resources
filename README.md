@@ -1,4 +1,4 @@
-# **resourcs**
+# **Resourcs for Designers**
 
 A list of good and reliable, mostly design related resources. Collected and curated by memebers of Visual Voyd (and the public hopefully)
 
